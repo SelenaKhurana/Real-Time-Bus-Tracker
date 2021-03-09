@@ -15,11 +15,11 @@ const busStops = [
   ];
   
   mapboxgl.accessToken =
-    'pk.eyJ1IjoidGVzdHVzZXIxMDAwIiwiYSI6ImNraDkzZ2pkMzAzMHoycnBmMXpvZ3UwZnMifQ.jAE4YsPeAJv50VK92NSpOQ';
+    'pk.eyJ1Ijoic2VsZW5ha2h1cmFuYSIsImEiOiJja2x3aHhzYjcweGZsMnVuNnRzbHE0Y2Y3In0.8Jec7Fl1dwCD0TSd6xo3AA';
   
   let map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/kristenacharya/ckm29smcg0hkz17nsduuuo07s',
+    style: 'mapbox://styles/selenakhurana/ckm2nl4lsat8317l5utp5a02h',
     center: [-71.104081, 42.365554],
     zoom: 14,
   });
